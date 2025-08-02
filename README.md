@@ -1,44 +1,41 @@
- Python Mini Projects Collection
-This repository is a collection of beginner-to-intermediate level Python mini projects, created for learning, experimentation, and practice. Each file represents a standalone script focusing on different areas such as games, utilities, simple automation, and logic-based tasks.
+# 🐍 Python Mini Projects by Mordecai
 
-Project Highlights
-File	Description
-Emailapp.py	Script to send emails using Python's smtplib.
-Temperature.py	A temperature converter between Celsius, Fahrenheit, and Kelvin.
-agecalculator.py	Calculate a person's age based on their birthdate.
-birthday.py	Reads and stores birthdays, possibly referencing birthdays.json.
-birthdays.json	JSON file storing birthday records.
-calculator.py	A basic arithmetic calculator using command line input.
-chatbox.py	A simple rule-based chatbot implementation.
-countdown.py	Countdown timer that takes time input from the user.
-currency.py	Currency converter or calculator (implementation-dependent).
-expense.py	Basic expense tracker for managing spending.
-guess_game.py	Number guessing game.
-mad_libs.py	Mad Libs-style word substitution game.
-palindrome.py	Check whether a given word is a palindrome.
-quiz.py	A CLI quiz game.
-rockpaper.py	Rock-Paper-Scissors game vs computer.
-sample_calculator.py	Sample calculator app (possibly GUI-based).
-tic.py	Tic-Tac-Toe game implementation.
-timer.py	Countdown or stopwatch timer.
-todo_list.py	Simple to-do list app to add and manage tasks.
-unit_calculator.py	Unit converter (length, mass, etc.).
-eston	(Not enough context — please rename or document this file).
+This repository is a curated collection of **beginner to intermediate Python projects**, built for practice, learning, and experimentation. Each script explores a different aspect of Python — from games and utilities to automation and simple logic.
 
+---
 
-# Run any script
-python agecalculator.py
+## 🚀 Project List
 
-Environment Exclusion
-Note: The project excludes any local virtual environment files using a .gitignore.
+| File | Description |
+|------|-------------|
+| `Emailapp.py` | Send emails using Python's built-in `smtplib`. |
+| `Temperature.py` | Convert between Celsius, Fahrenheit, and Kelvin. |
+| `agecalculator.py` | Calculate age from a given birthdate. |
+| `birthday.py` | Track birthdays using a JSON file. |
+| `birthdays.json` | Stores birthday records in key-value format. |
+| `calculator.py` | Simple command-line calculator for arithmetic operations. |
+| `chatbox.py` | Basic chatbot using conditional logic. |
+| `countdown.py` | Countdown timer with user-defined duration. |
+| `currency.py` | Currency converter (based on fixed or live exchange rates). |
+| `expense.py` | Track and log daily expenses. |
+| `guess_game.py` | Random number guessing game. |
+| `mad_libs.py` | Fun word substitution game. |
+| `palindrome.py` | Check if a word or number is a palindrome. |
+| `quiz.py` | Command-line multiple-choice quiz game. |
+| `rockpaper.py` | Rock-Paper-Scissors game against the computer. |
+| `sample_calculator.py` | Another calculator variation (may include GUI or advanced logic). |
+| `tic.py` | Tic-Tac-Toe game for two players or vs AI. |
+| `timer.py` | Timer for counting down in seconds or minutes. |
+| `todo_list.py` | Create and manage a simple to-do list. |
+| `unit_calculator.py` | Convert between different measurement units. |
+| `eston` | *(Unclear – please update the name or description.)* |
 
-Learning Goals
-This repo was built to:
+---
 
-Practice problem-solving with Python
+## 🛠️ How to Use
 
-Build command-line interfaces and logic-based applications
+1. Clone the repository:
 
-Explore basic file I/O and JSON handling
-
-Gain confidence in structuring Python scripts
+```bash
+git clone https://github.com/Mordecai31/pythonwork.git
+cd pythonwork
