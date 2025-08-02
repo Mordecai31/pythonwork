@@ -1,14 +1,14 @@
-# 🐍 Python Mini Projects by Mordecai
+# Python Mini Projects by Mordecai
 
 This repository is a curated collection of **beginner to intermediate Python projects**, built for practice, learning, and experimentation. Each script explores a different aspect of Python — from games and utilities to automation and simple logic.
 
 ---
 
-## 🚀 Project List
+## Project List
 
 | File | Description |
 |------|-------------|
-| `Emailapp.py` | Send emails using Python's built-in `smtplib`. |
+| `Emailapp.py` | Send emails using Python's built-in. |
 | `Temperature.py` | Convert between Celsius, Fahrenheit, and Kelvin. |
 | `agecalculator.py` | Calculate age from a given birthdate. |
 | `birthday.py` | Track birthdays using a JSON file. |
@@ -20,7 +20,6 @@ This repository is a curated collection of **beginner to intermediate Python pro
 | `expense.py` | Track and log daily expenses. |
 | `guess_game.py` | Random number guessing game. |
 | `mad_libs.py` | Fun word substitution game. |
-| `palindrome.py` | Check if a word or number is a palindrome. |
 | `quiz.py` | Command-line multiple-choice quiz game. |
 | `rockpaper.py` | Rock-Paper-Scissors game against the computer. |
 | `sample_calculator.py` | Another calculator variation (may include GUI or advanced logic). |
@@ -28,14 +27,5 @@ This repository is a curated collection of **beginner to intermediate Python pro
 | `timer.py` | Timer for counting down in seconds or minutes. |
 | `todo_list.py` | Create and manage a simple to-do list. |
 | `unit_calculator.py` | Convert between different measurement units. |
-| `eston` | *(Unclear – please update the name or description.)* |
 
 ---
-
-## 🛠️ How to Use
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Mordecai31/pythonwork.git
-cd pythonwork
