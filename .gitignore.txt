@@ -1,0 +1,17 @@
+# Virtual environment folders
+venv/
+myenv/
+.venv/
+ENV/
+.env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# VSCode settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
